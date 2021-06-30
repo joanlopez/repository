@@ -1,7 +1,7 @@
 {
 		"id": 235,
 	   "uid": "v9Q6yvlMz",
-	   "orgId": 2,
+	   "orgId": 3,
 	   "name": "Amazon CloudWatch af-south-2 473806425652",
 	   "type": "cloudwatch",
 	   "typeName": "CloudWatch",
